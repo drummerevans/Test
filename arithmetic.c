@@ -2,6 +2,7 @@
 
 int addition(int x, int y);
 
+// This is the main function
 int main() {
     int a, b;
     a = 20;
